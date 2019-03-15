@@ -1,5 +1,14 @@
 [![](https://images.microbadger.com/badges/image/containersol/docker-cobbler.svg)](https://microbadger.com/images/containersol/docker-cobbler "Get your own image badge on microbadger.com")
 
+# NOTES by WGBDEV:
+# -----------------
+Another annoying "half-working" solution on github.  So far, the issues identified and still working to get working...
+1. Doesn't work on Mac/Docker - need to change the mounting system from losetup
+2. host/NAT for TFTP isn't functioning
+3. lacking documentation on how to get the web-server up an functioning
+4. added a .dockerignore so that 5-10GB don't get sucked into the Docker build context
+5. more to come....
+
 # Docker-Cobbler
 Cobbler in a Docker container
 
