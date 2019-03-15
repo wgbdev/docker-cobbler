@@ -9,7 +9,7 @@ Another annoying "half-working" solution on github.  So far, the issues identifi
 4. added a .dockerignore so that 5-10GB don't get sucked into the Docker build context
 5. more to come....
 
-Other forks where people had to modify shit to get this to work.
+Other forks where people had to modify this to get it to work.
 ------------------------------------------------------------------
 
 1. https://github.com/naokisatoname/docker-cobbler
