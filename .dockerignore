@@ -1,1 +1,3 @@
 dist/*
+var/www/cobbler/ks_mirror/config/*
+var/www/cobbler/images/*
